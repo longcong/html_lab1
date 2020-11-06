@@ -1,6 +1,6 @@
 # làm quen với github
 ## giới thiệu github
-![hinh](html_img/anh1.jpg)
+![hinh](img/anh1.jpg)
 ```html
 <!DOCTYPE html>
 <html lang="en">
